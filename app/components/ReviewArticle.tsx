@@ -3,7 +3,7 @@ import React from 'react'
 function ReviewArticle() {
   return (
     <div className="reviews">
-            <article className="reviews__review sm:w-[20rem] ml-auto">
+            <article className="reviews__review w-[20rem] ml-auto">
               <div className="review__top">
                 <img src="/google-testimonial.png" alt="Google" />
                 <div className="top__stars ml-2">
